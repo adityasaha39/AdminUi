@@ -1,0 +1,11 @@
+.table{
+    margin: 30px;
+    padding-bottom: 60px;
+}
+
+@media only screen and (max-width: 800px) {
+    .table{
+        margin: 5px;
+        padding-bottom: 30px;
+    }
+  }
