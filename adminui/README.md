@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 And by using some [libraries from antd](https://ant.design/).
 
 The project is done by Aditya Saha, 3rd year B.tech student at NIT Agartala
+Live preview at :- https://adminui-aditya.netlify.app/
 
 ## First get install the required libraries from antd using the following command
 
